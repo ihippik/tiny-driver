@@ -13,6 +13,7 @@ Was inspired by:
 * https://github.com/uptrace/bun
 * https://github.com/lib/pq
 
+### Example
 ```go
 import (
     "database/sql"
